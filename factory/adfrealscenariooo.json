@@ -1,0 +1,9 @@
+{
+	"name": "adfrealscenariooo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "27d85cb4-f2f3-4991-bb03-addfe7be35d1",
+		"tenantId": "3840216e-fe61-45a8-87a2-bd06fe80c67e"
+	}
+}
