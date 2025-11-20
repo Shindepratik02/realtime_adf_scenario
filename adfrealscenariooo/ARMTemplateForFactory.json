@@ -193,7 +193,7 @@
 			]
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/pipeline1')]",
+			"name": "[concat(parameters('factoryName'), '/latestfile_copy')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -538,7 +538,7 @@
 			]
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/scen2')]",
+			"name": "[concat(parameters('factoryName'), '/Filesnotin-Destination')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
